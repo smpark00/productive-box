@@ -15,4 +15,4 @@ jobs:
         env:
           GH_TOKEN: ${{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}}
           GIST_ID: ${{ https://gist.github.com/smpark00/ae497081ad554e5afadda840b60281bb }}
-          TIMEZONE: ${{ vars.TIMEZONE }}
+          TIMEZONE: Asia/Seoul
